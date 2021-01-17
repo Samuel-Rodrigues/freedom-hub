@@ -29,7 +29,7 @@ Esse App usa o conceito de IOT, onde controla diversos dispositivos físicos(har
 - ⚛️ **React-native** - Uma biblioteca JavaScript para criar mobile Apps 
 - ⚛️ **Styled Components** - Biblioteca Javascript pra estilizar componentes
 - 📄 **Axios** - Biblioteca Javascript para fazer requisições http
-- 📄 **UnForm** - Formulário
+- 📄 **UnForm** - Formulário.
 - 📄 **Paho-mqtt - Para comunicacao webSocket - mqtt
 ... entre outras.
 
