@@ -17,7 +17,7 @@
     "@react-navigation/stack": "^5.2.9",
     "@unform/core": "^2.0.0",
     "@unform/mobile": "^2.0.0",
-    "immer": "^6.0.3",
+    "immer": "^8.0.1",
     "paho-mqtt": "^1.1.0",
     "prop-types": "^15.7.2",
     "react": "16.11.0",
